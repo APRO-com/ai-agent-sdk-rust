@@ -85,7 +85,6 @@ cargo run
 If successful, you will see transaction details including gas usage and transaction receipt:
 
 ```bash
-Gas estimate: 1513376
 Transaction successful: TransactionReceipt {
     transaction_hash: 0x460524c261131045ec1fee06a45e40e019c48daa8c9ffcc00de832b7b0b5b0d3,
     transaction_index: 12,
@@ -102,7 +101,6 @@ Agent created and registered
 Verify transactions may show additional details:
 
 ```bash
-Gas estimate: 154216
 Verify transaction successful. Receipt: TransactionReceipt {
     transaction_hash: 0x7297107c5ecfae5aa1f02369b8d05ae067bb50570b5e273ba538184f9a594476,
     gas_used: Some(151844),
