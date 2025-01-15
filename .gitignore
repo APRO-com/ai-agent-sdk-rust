@@ -1,0 +1,11 @@
+**/target/
+
+log/
+*.py
+*.csv
+*.pyc
+*.txt
+*.log
+*.env
+
+attps-rust-sdk/Cargo.lock
