@@ -13,8 +13,8 @@ This guide will help you quickly set up and use the ATTPS RUST SDK to interact w
 ## Step 1: Clone the Repository
 Clone the ATTPS RUST SDK repository from GitHub:
 ```bash
-git clone https://github.com/anz-io/attps-rust-sdk.git
-cd attps-rust-sdk/demo
+git clone https://github.com/APRO-com/ai-agent-sdk-rust.git
+cd ai-agent-sdk-rust/demo
 ```
 
 ## Step 2: Install Rust Environment
